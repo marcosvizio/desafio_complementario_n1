@@ -1,0 +1,23 @@
+* {
+    margin: 0;
+	padding: 0;
+	border: 0;
+	vertical-align: baseline;
+}
+
+body{
+    background-color: rgb(117, 194, 29);
+    font-family: 'Roboto', sans-serif;
+    h1{
+        text-align: center;
+        padding-top: 1rem;
+    }
+    p{
+        text-align: center;
+        font-size: 1.5rem;
+        padding: 1rem
+    }
+    script{
+        padding: 1rem;
+    }
+}
